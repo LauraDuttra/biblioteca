@@ -26,3 +26,4 @@ $controler = new livroController();
 
 $controler->listar();
 ?>
+<link rel="stylesheet" href="style.css">
